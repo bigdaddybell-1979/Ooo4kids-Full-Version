@@ -241,4 +241,4 @@ This repository serves as the official landing page for **OOo4Kids**. The softwa
 **Get the most recent version of OOo4Kids today!**
 
 ---
-**Last updated:** 2026-09-08 23:01:16 UTC
+**Last updated:** 2026-09-09 01:39:39 UTC
